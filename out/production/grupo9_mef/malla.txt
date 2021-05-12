@@ -1,0 +1,20 @@
+- nodos
+n 3 0
+n 2 1.25
+n 1 2.5
+n 5 3.75
+n 4 5
+- tipo de nodos
+t 3 1
+t 4 2
+- elementos
+e 3 2
+e 2 1
+e 1 5
+e 5 4
+- propiedades de los elementos 
+p 0 3 2 50
+- malla con sus propiedades
+v 10
+T 300
+q -165
